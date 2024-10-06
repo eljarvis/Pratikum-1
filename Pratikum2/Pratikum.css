@@ -1,0 +1,30 @@
+body {
+    background-color:aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    padding-left: 10px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gambar {
+    display: flex;
+}
+
+.teks p {
+    font-size: small;
+}
+
+hr {
+    color: blue;
+}
